@@ -8,9 +8,9 @@ description: Computer Science studies at the University of Technology of Compiè
 
 _09-2014 -> Today_
 
-Currently studying computer science studies (data science specialization) at the University of Technology of Compiègne, France.
+I am currently studying **computer science** (data science specialization) at the University of Technology of Compiègne, France.
 
-Classes followed:
+Classes I followed:
 
 * Data Structures and Algorithms (C)
 * Microprocessors' architecture (Assembly x86)
