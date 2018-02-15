@@ -1,8 +1,8 @@
 ---
 layout: default
-img: TTI-logo.svg
-category: experiences
-title: Solutions Engineer Intern
+img: lisp.png
+category: projects
+title: Expert System in Lisp
 description: |
 ---
 
