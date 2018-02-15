@@ -3,7 +3,7 @@ layout: default
 img: lisp.png
 category: projects
 title: Expert System in Lisp
-description: | Expert system capable of giving advice to students on which club or student association they should take part in.
+description: Expert system capable of giving advice to students on which club or student association they should take part in.
 ---
 
 11-2016 -> 01-2017
