@@ -1,6 +1,6 @@
 ---
 layout: default
-img: TTI-logo.png
+img: TTI-logo.svg
 category: Experiences
 title: Solutions Engineer Intern
 description: |
