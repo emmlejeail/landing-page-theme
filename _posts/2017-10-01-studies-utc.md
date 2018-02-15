@@ -3,7 +3,20 @@ layout: default
 img: logosUTC_SU.jpg
 category: studies
 title: Computer Science Engineering - Data Science Specialization
-description: |
+description: Computer Science studies at the University of Technology of Compiègne, FR (Engineering School)
 ---
 
-A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template. Visit their website to become a member!
+_09-2014 -> Today_
+
+Currently studying computer science studies (data science specialization) at the University of Technology of Compiègne, France.
+
+Classes followed:
+
+* Data Structures and Algorithms (C)
+* Microprocessors' architecture (Assembly x86)
+* Data Bases' conception (SQL, MongoDB, PostgreSQL)
+* Data modelization applied to Artificial Intelligence (Lisp)
+* Logic Programming for Artificial Intelligence (Prolog)
+* Applied statistics (R)
+* Object Oriented programming (C++)
+* Operational Research
