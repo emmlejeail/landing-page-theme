@@ -10,6 +10,7 @@ description: > # "Write an awesome description for your new site here.
   This is my personal website, describing my activities and my studies, acting as an online curriculum vitae.
   I am a 4th year computer science engineering student, completing my engineering degree in data sciences.
   I am currently studying at the University of Technology of Compiègne, France.
+  This website is powered by Jekyll and GitHub Pages.
 copyright: 'Copyright &copy; 2018 Emmanuelle Lejeail. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
